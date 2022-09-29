@@ -3,7 +3,7 @@
 About me 😅: 
 
 - 🔭 I’m currently working on [Patagonian](http://www.patagonian.com) as backend developer.
-- 🌱 I’m currently learning and making personal tools and side projects with *Golang*. 
+- 🌱 I’m currently learning and making personal tools to improve my workflow and daily tasks using *Golang*. 
 - 👯 I'm looking to collaborate on cool and fun projects to help others dev make work easier!
 - 📫 How to reach me: [Email](mailto:pablotrianda@gmail.com) or [Linkedin](https://www.linkedin.com/in/pablo-triandafilide-641b24ba/)
  
