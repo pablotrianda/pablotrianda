@@ -15,3 +15,6 @@ The latest tools created are:
  - [Mockit](https://github.com/pablotrianda/mock-it): Tool to create a mock server on the fly.
  - [Config](https://github.com/pablotrianda/config): Golang package to read configurations an a easy and fast way from a yaml file. 
 
+Some neovim plugins:
+- [GenerateHashtags](https://github.com/pablotrianda/generate-hashtags): Generate a hashtags list with the text in the current buffer using the repeated words
+- [OpenWithIdea](https://github.com/pablotrianda/open-with-idea): Simple lua plugin for open the current file with intelliJ.
