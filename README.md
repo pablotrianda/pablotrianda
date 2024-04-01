@@ -2,7 +2,7 @@
 
 About me: 
 
-- 🔭 I’m a backend developer.
+- 🔭 I’m a *Golang* backend developer.
 - 🌱 I’m currently learning and making personal tools to improve my workflow and daily tasks using *Golang* and *Rust*. 
 - 👯 I'm looking to collaborate on cool and fun projects to help others dev make work easier!
 - 📫 How to reach me: [Email](mailto:pablotrianda@gmail.com) or [Linkedin](https://www.linkedin.com/in/pablo-triandafilide-641b24ba/)
