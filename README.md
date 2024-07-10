@@ -12,7 +12,6 @@ Feel free to send a PR to any of them ✨
 
 The latest tools created are: 
  - [Gremlins Report](http://github.com/pablotrianda/gremlins-report): Build a html report with the [gremlins](https://github.com/go-gremlins/gremlins) information.
- - [Brancher](https://github.com/pablotrianda/brancher): Tool to manage git branches.
  - [Mockit](https://github.com/pablotrianda/mock-it): Tool to create a mock server on the fly.
  - [Config](https://github.com/pablotrianda/config): Golang package to read configurations an a easy and fast way from a yaml file. 
 
