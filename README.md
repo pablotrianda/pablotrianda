@@ -16,5 +16,5 @@ The latest tools created are:
  - [Config](https://github.com/pablotrianda/config): Golang package to read configurations an a easy and fast way from a yaml file. 
 
 Some neovim plugins:
-- [GenerateHashtags](https://github.com/pablotrianda/generate-hashtags): Generate a hashtags list with the text in the current buffer using the repeated words
 - [OpenWithIdea](https://github.com/pablotrianda/open-with-idea): Simple lua plugin for open the current file with intelliJ.
+- [GoFlyTest](https://github.com/pablotrianda/goFlyTest): Run the Golang tests using [vim-go](https://github.com/fatih/vim-go) commands
