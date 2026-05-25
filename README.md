@@ -1,20 +1,91 @@
-### Hello, there! <img src="https://i.imgur.com/CweZtIH.gif" width="30px" height="30px">
+# Hi there 👋 I'm Pablo
 
-About me: 
+### Fullstack Developer focused on backend, scalable systems and real-world products.
 
-- 🔭 I’m a *Golang* backend developer.
-- 🌱 I’m currently learning and making personal tools to improve my workflow and daily tasks using *Golang* and *Rust*. 
-- 👯 I'm looking to collaborate on cool and fun projects to help others dev make work easier!
-- 📫 How to reach me: [Email](mailto:pablotrianda@gmail.com) or [Linkedin](https://www.linkedin.com/in/pablo-triandafilide-641b24ba/)
- 
-This repo has mostly my editor config, i3, tmux and other config and some tools was I build to improvement my workflow.  
-Feel free to send a PR to any of them ✨
+I build software end-to-end — from APIs and infrastructure to frontend experiences and product workflows.
 
-The latest tools created are: 
- - [Gremlins Report](http://github.com/pablotrianda/gremlins-report): Build a html report with the [gremlins](https://github.com/go-gremlins/gremlins) information.
- - [Mockit](https://github.com/pablotrianda/mock-it): Tool to create a mock server on the fly.
- - [Config](https://github.com/pablotrianda/config): Golang package to read configurations an a easy and fast way from a yaml file. 
+Currently working on:
+- 🏥 Health-tech platforms and clinical systems
+- ⚡ High-performance backends with Golang
+- 🦀 Automation and tooling with Rust
+- ☁️ Cloud-native infrastructure with Docker & Kubernetes
+- 🤖 AI-assisted development workflows
 
-Some neovim plugins:
-- [OpenWithIdea](https://github.com/pablotrianda/open-with-idea): Simple lua plugin for open the current file with intelliJ.
-- [GoFlyTest](https://github.com/pablotrianda/goFlyTest): Run the Golang tests using [vim-go](https://github.com/fatih/vim-go) commands
+---
+
+## 🚀 About Me
+
+- 🔭 Fullstack developer with strong backend experience
+- ⚙️ Building scalable systems using **Golang**, **Node.js**, and **Java/Spring**
+- 🧩 Experience designing **microservices**, **BFF architectures**, and REST APIs
+- ☁️ Working with **AWS**, **Kubernetes**, **GitHub Actions**, **GitLab CI/CD**, and **Argo CD**
+- 🖥️ Frontend development with **React** and **Svelte**
+- 🧠 Interested in developer experience, automation and productivity tooling
+- 🤝 Open to collaborating on useful, fun or ambitious projects
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Golang (Fiber, Gin)
+- Node.js
+- Java + Spring Boot
+
+### Frontend
+- React
+- Svelte
+
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- AWS (EKS, Lambda)
+- GitHub Actions
+- GitLab CI/CD
+- Argo CD
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Other Interests
+- AI-assisted development
+- System design
+- Developer tooling
+- Workflow automation
+
+---
+
+## ✨ Featured Projects
+
+### 🔹 [Gremlins Report](https://github.com/pablotrianda/gremlins-report)
+Generate HTML reports from [Gremlins](https://github.com/go-gremlins/gremlins) chaos engineering executions.
+
+### 🔹 [Mockit](https://github.com/pablotrianda/mock-it)
+Create mock servers on the fly for fast API prototyping and testing.
+
+### 🔹 [Config](https://github.com/pablotrianda/config)
+Minimal and fast Golang configuration loader using YAML.
+
+---
+
+## 🔌 Neovim Plugins
+
+### 🔹 [OpenWithIdea](https://github.com/pablotrianda/open-with-idea)
+Open the current file directly in IntelliJ IDEA from Neovim.
+
+### 🔹 [GoFlyTest](https://github.com/pablotrianda/goFlyTest)
+Run Golang tests quickly using vim-go commands.
+
+---
+
+## 📫 Contact
+
+- 📧 Email: <mailto:pablotrianda@gmail.com>
+- 💼 LinkedIn: <https://www.linkedin.com/in/pablo-triandafilide-641b24ba/>
+- 🐙 GitHub: <https://github.com/pablotrianda>
+
+---
+
+> I enjoy building software that solves real problems, improves workflows and scales cleanly.
