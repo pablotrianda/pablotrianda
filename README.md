@@ -23,39 +23,6 @@ Currently working on:
 - 🧠 Interested in developer experience, automation and productivity tooling
 - 🤝 Open to collaborating on useful, fun or ambitious projects
 
----
-
-## 🛠 Tech Stack
-
-### Backend
-- Golang (Fiber, Gin)
-- Node.js
-- Java + Spring Boot
-
-### Frontend
-- React
-- Svelte
-
-### Cloud & DevOps
-- Docker
-- Kubernetes
-- AWS (EKS, Lambda)
-- GitHub Actions
-- GitLab CI/CD
-- Argo CD
-
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### Other Interests
-- AI-assisted development
-- System design
-- Developer tooling
-- Workflow automation
-
----
 
 ## ✨ Featured Projects
 
